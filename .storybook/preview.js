@@ -5,5 +5,5 @@ import '../src/index.css';
 
 addDecorator(host({
     align: "center middle",
-    backdrop: "#2a2a2e"
+    backdrop: "#fff"
 }));
